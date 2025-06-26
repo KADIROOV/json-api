@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Akmal",
-      "last_name": "Saidov",
+      "last": "Saidov",
       "age": 35,
       "country": "Uzbekistan",
       "description": "Technology enthusiast who loves creating mobile apps and mentoring juniors.",
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "name": "Elena",
-      "last_name": "Novikova",
+      "last": "Novikova",
       "age": 29,
       "country": "Russia",
       "description": "Graphic designer passionate about user experience and clean layouts.",
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "name": "Takeshi",
-      "last_name": "Yamamoto",
+      "last": "Yamamoto",
       "age": 41,
       "country": "Japan",
       "description": "Senior engineer working on robotics and AI systems.",
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "name": "Sara",
-      "last_name": "O'Neill",
+      "last": "O'Neill",
       "age": 33,
       "country": "Ireland",
       "description": "Community advocate building local initiatives for youth education.",
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "name": "Jamshid",
-      "last_name": "Karimov",
+      "last": "Karimov",
       "age": 21,
       "country": "Uzbekistan",
       "description": "Young student exploring the world of web development and freelancing.",
@@ -68,7 +68,7 @@
     {
       "id": 6,
       "name": "Fatima",
-      "last_name": "Rahman",
+      "last": "Rahman",
       "age": 27,
       "country": "Bangladesh",
       "description": "Passionate about nutrition and wellness, helping people stay healthy.",
@@ -81,7 +81,7 @@
     {
       "id": 7,
       "name": "Mateo",
-      "last_name": "Fernandez",
+      "last": "Fernandez",
       "age": 30,
       "country": "Argentina",
       "description": "Full-stack developer with a love for React and Node.js.",
@@ -94,7 +94,7 @@
     {
       "id": 8,
       "name": "Amina",
-      "last_name": "Khan",
+      "last": "Khan",
       "age": 26,
       "country": "Pakistan",
       "description": "Digital marketer focusing on SEO and content strategy.",
@@ -107,7 +107,7 @@
     {
       "id": 9,
       "name": "Daniel",
-      "last_name": "Nguyen",
+      "last": "Nguyen",
       "age": 24,
       "country": "Vietnam",
       "description": "Teacher and lifelong learner who enjoys writing and public speaking.",
@@ -120,7 +120,7 @@
     {
       "id": 10,
       "name": "Sofia",
-      "last_name": "Martins",
+      "last": "Martins",
       "age": 38,
       "country": "Portugal",
       "description": "Architect blending modern design with sustainability.",
@@ -133,7 +133,7 @@
     {
       "id": 11,
       "name": "Omar",
-      "last_name": "Farouk",
+      "last": "Farouk",
       "age": 45,
       "country": "Egypt",
       "description": "Veteran journalist with a deep focus on Middle East affairs.",
@@ -146,7 +146,7 @@
     {
       "id": 12,
       "name": "Natalie",
-      "last_name": "Schmidt",
+      "last": "Schmidt",
       "age": 31,
       "country": "Germany",
       "description": "Software tester obsessed with bug-hunting and quality assurance.",
@@ -159,7 +159,7 @@
     {
       "id": 13,
       "name": "Zafar",
-      "last_name": "Islomov",
+      "last": "Islomov",
       "age": 40,
       "country": "Uzbekistan",
       "description": "Entrepreneur building digital tools for local businesses.",
@@ -172,7 +172,7 @@
     {
       "id": 14,
       "name": "Isabella",
-      "last_name": "Torres",
+      "last": "Torres",
       "age": 19,
       "country": "Mexico",
       "description": "Student exploring careers in design and animation.",
@@ -185,7 +185,7 @@
     {
       "id": 15,
       "name": "Thomas",
-      "last_name": "Doyle",
+      "last": "Doyle",
       "age": 34,
       "country": "United Kingdom",
       "description": "Cloud engineer working on scalable systems and DevOps pipelines.",
@@ -198,7 +198,7 @@
     {
       "id": 16,
       "name": "Aisha",
-      "last_name": "Mohamed",
+      "last": "Mohamed",
       "age": 28,
       "country": "Kenya",
       "description": "Doctor advocating for health tech solutions in rural areas.",
@@ -211,7 +211,7 @@
     {
       "id": 17,
       "name": "Yuto",
-      "last_name": "Tanaka",
+      "last": "Tanaka",
       "age": 25,
       "country": "Japan",
       "description": "Game designer bringing storytelling and interactivity together.",
@@ -224,7 +224,7 @@
     {
       "id": 18,
       "name": "Chloe",
-      "last_name": "Martin",
+      "last": "Martin",
       "age": 32,
       "country": "France",
       "description": "Chef exploring fusion cuisine and traditional French dishes.",
@@ -237,7 +237,7 @@
     {
       "id": 19,
       "name": "David",
-      "last_name": "Kim",
+      "last": "Kim",
       "age": 36,
       "country": "South Korea",
       "description": "Cybersecurity analyst who enjoys reverse engineering and capture the flag events.",
@@ -250,7 +250,7 @@
     {
       "id": 20,
       "name": "Aliya",
-      "last_name": "Rakhimova",
+      "last": "Rakhimova",
       "age": 23,
       "country": "Kazakhstan",
       "description": "Mobile app developer building products for students and educators.",
@@ -263,7 +263,7 @@
     {
       "id": 21,
       "name": "Javlon",
-      "last_name": "Mirzayev",
+      "last": "Mirzayev",
       "age": 22,
       "country": "Uzbekistan",
       "description": "Backend learner aiming to become a full-stack developer.",
