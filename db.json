@@ -2,7 +2,7 @@
   "userData": [
     {
       "id": 1,
-      "first_name": "Akmal",
+      "name": "Akmal",
       "last_name": "Saidov",
       "age": 35,
       "country": "Uzbekistan",
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "first_name": "Elena",
+      "name": "Elena",
       "last_name": "Novikova",
       "age": 29,
       "country": "Russia",
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "first_name": "Takeshi",
+      "name": "Takeshi",
       "last_name": "Yamamoto",
       "age": 41,
       "country": "Japan",
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "first_name": "Sara",
+      "name": "Sara",
       "last_name": "O'Neill",
       "age": 33,
       "country": "Ireland",
@@ -54,7 +54,7 @@
     },
     {
       "id": 5,
-      "first_name": "Jamshid",
+      "name": "Jamshid",
       "last_name": "Karimov",
       "age": 21,
       "country": "Uzbekistan",
@@ -67,7 +67,7 @@
     },
     {
       "id": 6,
-      "first_name": "Fatima",
+      "name": "Fatima",
       "last_name": "Rahman",
       "age": 27,
       "country": "Bangladesh",
@@ -80,7 +80,7 @@
     },
     {
       "id": 7,
-      "first_name": "Mateo",
+      "name": "Mateo",
       "last_name": "Fernandez",
       "age": 30,
       "country": "Argentina",
@@ -93,7 +93,7 @@
     },
     {
       "id": 8,
-      "first_name": "Amina",
+      "name": "Amina",
       "last_name": "Khan",
       "age": 26,
       "country": "Pakistan",
@@ -106,7 +106,7 @@
     },
     {
       "id": 9,
-      "first_name": "Daniel",
+      "name": "Daniel",
       "last_name": "Nguyen",
       "age": 24,
       "country": "Vietnam",
@@ -119,7 +119,7 @@
     },
     {
       "id": 10,
-      "first_name": "Sofia",
+      "name": "Sofia",
       "last_name": "Martins",
       "age": 38,
       "country": "Portugal",
@@ -132,7 +132,7 @@
     },
     {
       "id": 11,
-      "first_name": "Omar",
+      "name": "Omar",
       "last_name": "Farouk",
       "age": 45,
       "country": "Egypt",
@@ -145,7 +145,7 @@
     },
     {
       "id": 12,
-      "first_name": "Natalie",
+      "name": "Natalie",
       "last_name": "Schmidt",
       "age": 31,
       "country": "Germany",
@@ -158,7 +158,7 @@
     },
     {
       "id": 13,
-      "first_name": "Zafar",
+      "name": "Zafar",
       "last_name": "Islomov",
       "age": 40,
       "country": "Uzbekistan",
@@ -171,7 +171,7 @@
     },
     {
       "id": 14,
-      "first_name": "Isabella",
+      "name": "Isabella",
       "last_name": "Torres",
       "age": 19,
       "country": "Mexico",
@@ -184,7 +184,7 @@
     },
     {
       "id": 15,
-      "first_name": "Thomas",
+      "name": "Thomas",
       "last_name": "Doyle",
       "age": 34,
       "country": "United Kingdom",
@@ -197,7 +197,7 @@
     },
     {
       "id": 16,
-      "first_name": "Aisha",
+      "name": "Aisha",
       "last_name": "Mohamed",
       "age": 28,
       "country": "Kenya",
@@ -210,7 +210,7 @@
     },
     {
       "id": 17,
-      "first_name": "Yuto",
+      "name": "Yuto",
       "last_name": "Tanaka",
       "age": 25,
       "country": "Japan",
@@ -223,7 +223,7 @@
     },
     {
       "id": 18,
-      "first_name": "Chloe",
+      "name": "Chloe",
       "last_name": "Martin",
       "age": 32,
       "country": "France",
@@ -236,7 +236,7 @@
     },
     {
       "id": 19,
-      "first_name": "David",
+      "name": "David",
       "last_name": "Kim",
       "age": 36,
       "country": "South Korea",
@@ -249,7 +249,7 @@
     },
     {
       "id": 20,
-      "first_name": "Aliya",
+      "name": "Aliya",
       "last_name": "Rakhimova",
       "age": 23,
       "country": "Kazakhstan",
@@ -262,7 +262,7 @@
     },
     {
       "id": 21,
-      "first_name": "Javlon",
+      "name": "Javlon",
       "last_name": "Mirzayev",
       "age": 22,
       "country": "Uzbekistan",
