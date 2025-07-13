@@ -111,14 +111,6 @@
       "price": 337.94,
       "brand": "Canon",
       "category": "Photography"
-    },
-    {
-      "id": 15,
-      "name": "Asus ROG Phone 7",
-      "description": "Gaming phone with high refresh rate display.",
-      "price": 152.95,
-      "brand": "Asus",
-      "category": "Electronics"
     }
   ],
   "uz": [
@@ -233,14 +225,6 @@
       "price": 337.94,
       "brand": "Canon",
       "category": "Foto"
-    },
-    {
-      "id": 15,
-      "name": "Asus ROG Phone 7",
-      "description": "Yuqori yangilanish tezligiga ega o‘yin uchun telefon.",
-      "price": 152.95,
-      "brand": "Asus",
-      "category": "Elektronika"
     }
   ],
   "ru": [
@@ -355,14 +339,6 @@
       "price": 337.94,
       "brand": "Canon",
       "category": "Фототехника"
-    },
-    {
-      "id": 15,
-      "name": "Asus ROG Phone 7",
-      "description": "Игровой телефон с дисплеем с высокой частотой обновления.",
-      "price": 152.95,
-      "brand": "Asus",
-      "category": "Электроника"
     }
   ]
 }
