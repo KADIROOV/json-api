@@ -119,46 +119,6 @@
       "price": 152.95,
       "brand": "Asus",
       "category": "Electronics"
-    },
-    {
-      "id": 16,
-      "name": "HP Pavilion 15",
-      "description": "A versatile laptop for work and play.",
-      "price": 774.1,
-      "brand": "HP",
-      "category": "Electronics"
-    },
-    {
-      "id": 17,
-      "name": "Xiaomi Smart Band 8",
-      "description": "A smart fitness tracker with heart rate monitor.",
-      "price": 301.2,
-      "brand": "Xiaomi",
-      "category": "Wearables"
-    },
-    {
-      "id": 18,
-      "name": "Google Pixel 7",
-      "description": "Pure Android experience with excellent camera.",
-      "price": 407.86,
-      "brand": "Google",
-      "category": "Electronics"
-    },
-    {
-      "id": 19,
-      "name": "HP Pavilion 15",
-      "description": "A versatile laptop for work and play.",
-      "price": 1399.95,
-      "brand": "HP",
-      "category": "Electronics"
-    },
-    {
-      "id": 20,
-      "name": "MacBook Air M2",
-      "description": "A lightweight and powerful laptop for professionals.",
-      "price": 125.83,
-      "brand": "Apple",
-      "category": "Electronics"
     }
   ],
   "uz": [
@@ -281,46 +241,6 @@
       "price": 152.95,
       "brand": "Asus",
       "category": "Elektronika"
-    },
-    {
-      "id": 16,
-      "name": "HP Pavilion 15",
-      "description": "Ish va o'yin uchun universal noutbuk.",
-      "price": 774.1,
-      "brand": "HP",
-      "category": "Elektronika"
-    },
-    {
-      "id": 17,
-      "name": "Xiaomi Smart Band 8",
-      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
-      "price": 301.2,
-      "brand": "Xiaomi",
-      "category": "Aqlli gadjetlar"
-    },
-    {
-      "id": 18,
-      "name": "Google Pixel 7",
-      "description": "Ajoyib kamerali sof Android tajribasi.",
-      "price": 407.86,
-      "brand": "Google",
-      "category": "Elektronika"
-    },
-    {
-      "id": 19,
-      "name": "HP Pavilion 15",
-      "description": "Ish va o'yin uchun universal noutbuk.",
-      "price": 1399.95,
-      "brand": "HP",
-      "category": "Elektronika"
-    },
-    {
-      "id": 20,
-      "name": "MacBook Air M2",
-      "description": "Yengil va kuchli professional noutbuk.",
-      "price": 125.83,
-      "brand": "Apple",
-      "category": "Elektronika"
     }
   ],
   "ru": [
@@ -442,46 +362,6 @@
       "description": "Игровой телефон с дисплеем с высокой частотой обновления.",
       "price": 152.95,
       "brand": "Asus",
-      "category": "Электроника"
-    },
-    {
-      "id": 16,
-      "name": "HP Pavilion 15",
-      "description": "Универсальный ноутбук для работы и игр.",
-      "price": 774.1,
-      "brand": "HP",
-      "category": "Электроника"
-    },
-    {
-      "id": 17,
-      "name": "Xiaomi Smart Band 8",
-      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
-      "price": 301.2,
-      "brand": "Xiaomi",
-      "category": "Умные устройства"
-    },
-    {
-      "id": 18,
-      "name": "Google Pixel 7",
-      "description": "Чистый Android с отличной камерой.",
-      "price": 407.86,
-      "brand": "Google",
-      "category": "Электроника"
-    },
-    {
-      "id": 19,
-      "name": "HP Pavilion 15",
-      "description": "Универсальный ноутбук для работы и игр.",
-      "price": 1399.95,
-      "brand": "HP",
-      "category": "Электроника"
-    },
-    {
-      "id": 20,
-      "name": "MacBook Air M2",
-      "description": "Легкий и мощный ноутбук для профессионалов.",
-      "price": 125.83,
-      "brand": "Apple",
       "category": "Электроника"
     }
   ]
