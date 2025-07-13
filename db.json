@@ -191,54 +191,6 @@
       "price": 1497.99,
       "brand": "LG",
       "category": "Electronics"
-    },
-    {
-      "id": 25,
-      "name": "Xiaomi Smart Band 8",
-      "description": "A smart fitness tracker with heart rate monitor.",
-      "price": 1115.7,
-      "brand": "Xiaomi",
-      "category": "Wearables"
-    },
-    {
-      "id": 26,
-      "name": "Google Pixel 7",
-      "description": "Pure Android experience with excellent camera.",
-      "price": 1114.11,
-      "brand": "Google",
-      "category": "Electronics"
-    },
-    {
-      "id": 27,
-      "name": "Xiaomi Smart Band 8",
-      "description": "A smart fitness tracker with heart rate monitor.",
-      "price": 856.45,
-      "brand": "Xiaomi",
-      "category": "Wearables"
-    },
-    {
-      "id": 28,
-      "name": "HP Pavilion 15",
-      "description": "A versatile laptop for work and play.",
-      "price": 107.14,
-      "brand": "HP",
-      "category": "Electronics"
-    },
-    {
-      "id": 29,
-      "name": "Google Pixel 7",
-      "description": "Pure Android experience with excellent camera.",
-      "price": 483.71,
-      "brand": "Google",
-      "category": "Electronics"
-    },
-    {
-      "id": 30,
-      "name": "HP Pavilion 15",
-      "description": "A versatile laptop for work and play.",
-      "price": 328.5,
-      "brand": "HP",
-      "category": "Electronics"
     }
   ],
   "uz": [
@@ -433,54 +385,6 @@
       "price": 1497.99,
       "brand": "LG",
       "category": "Elektronika"
-    },
-    {
-      "id": 25,
-      "name": "Xiaomi Smart Band 8",
-      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
-      "price": 1115.7,
-      "brand": "Xiaomi",
-      "category": "Aqlli gadjetlar"
-    },
-    {
-      "id": 26,
-      "name": "Google Pixel 7",
-      "description": "Ajoyib kamerali sof Android tajribasi.",
-      "price": 1114.11,
-      "brand": "Google",
-      "category": "Elektronika"
-    },
-    {
-      "id": 27,
-      "name": "Xiaomi Smart Band 8",
-      "description": "Yurak urishi kuzatuvi bilan aqlli fitnes treker.",
-      "price": 856.45,
-      "brand": "Xiaomi",
-      "category": "Aqlli gadjetlar"
-    },
-    {
-      "id": 28,
-      "name": "HP Pavilion 15",
-      "description": "Ish va o'yin uchun universal noutbuk.",
-      "price": 107.14,
-      "brand": "HP",
-      "category": "Elektronika"
-    },
-    {
-      "id": 29,
-      "name": "Google Pixel 7",
-      "description": "Ajoyib kamerali sof Android tajribasi.",
-      "price": 483.71,
-      "brand": "Google",
-      "category": "Elektronika"
-    },
-    {
-      "id": 30,
-      "name": "HP Pavilion 15",
-      "description": "Ish va o'yin uchun universal noutbuk.",
-      "price": 328.5,
-      "brand": "HP",
-      "category": "Elektronika"
     }
   ],
   "ru": [
@@ -674,54 +578,6 @@
       "description": "Потрясающий OLED-телевизор с яркими цветами и глубоким черным.",
       "price": 1497.99,
       "brand": "LG",
-      "category": "Электроника"
-    },
-    {
-      "id": 25,
-      "name": "Xiaomi Smart Band 8",
-      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
-      "price": 1115.7,
-      "brand": "Xiaomi",
-      "category": "Умные устройства"
-    },
-    {
-      "id": 26,
-      "name": "Google Pixel 7",
-      "description": "Чистый Android с отличной камерой.",
-      "price": 1114.11,
-      "brand": "Google",
-      "category": "Электроника"
-    },
-    {
-      "id": 27,
-      "name": "Xiaomi Smart Band 8",
-      "description": "Фитнес-браслет с мониторингом сердечного ритма.",
-      "price": 856.45,
-      "brand": "Xiaomi",
-      "category": "Умные устройства"
-    },
-    {
-      "id": 28,
-      "name": "HP Pavilion 15",
-      "description": "Универсальный ноутбук для работы и игр.",
-      "price": 107.14,
-      "brand": "HP",
-      "category": "Электроника"
-    },
-    {
-      "id": 29,
-      "name": "Google Pixel 7",
-      "description": "Чистый Android с отличной камерой.",
-      "price": 483.71,
-      "brand": "Google",
-      "category": "Электроника"
-    },
-    {
-      "id": 30,
-      "name": "HP Pavilion 15",
-      "description": "Универсальный ноутбук для работы и игр.",
-      "price": 328.5,
-      "brand": "HP",
       "category": "Электроника"
     }
   ]
